@@ -1,0 +1,10 @@
+{
+  "methodCalls": [
+    {
+      "class": "\\Lib\\Repository",
+      "method": "findAll",
+      "position": 0,
+      "mask": "%s[]"
+    }
+  ]
+}
